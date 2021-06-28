@@ -14,7 +14,7 @@ Among others, those below I use the most:
 - Ubuntu
 - AWS
 
-I can implement literyly everything, related to the web development.
+I can implement literaly everything, related to the web development.
 
 ### Acceptable crypto
 
