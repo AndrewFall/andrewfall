@@ -1,5 +1,5 @@
 ## Web development 4 crypto
-If you have any issues to be fixed or feature to be implemented, and you have some **crypto** - [contact me](drupal2crypto@ukr.net).
+If you have any issues to be fixed or feature to be implemented, and you have some **crypto** - [contact me](mailto:drupal2crypto@ukr.net).
 
 ### My main technologies
 
