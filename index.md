@@ -6,7 +6,7 @@ If you have any issues to be fixed or feature to be implemented, and you have so
 
 Among others, those below I use the most:
 
-- Drupal | WP
+- Drupal, WP
 - PHP
 - MySQL
 - JS
