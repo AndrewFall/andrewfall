@@ -1,16 +1,20 @@
 ## Web development 4 crypto
+
 If you have any issues to be fixed or feature to be implemented, and you have some **crypto** - [contact me](mailto:drupal2crypto@ukr.net).
 
 ### My main technologies
 
-- Drupal
+Among others, those below I use the most:
+
+- Drupal | WP
 - PHP
 - MySQL
 - JS
 - Docker + Docksal
 - Ubuntu
 - AWS
-- ...
+
+I can implement literyly everything, related to the web development.
 
 ### Acceptable crypto
 
