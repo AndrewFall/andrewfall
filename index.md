@@ -18,4 +18,4 @@ I can implement literaly everything, related to the web development.
 
 ### Acceptable crypto
 
-Any crypto among those, listed on [Binance](https://www.binance.com/).
+Any crypto among those, listed on [Binance](https://www.binance.com/en/register?ref=167275663).
